@@ -1,0 +1,19 @@
+{
+  "name": "Python support",
+  "raw_name": "python-uv",
+  "kind": "media",
+  "short": "Python support for ossia score through uv",
+  "key": "6aa9d4fd-a45b-4736-af8a-56168b48af42",
+  "license": "astral-sh/uv package manager license",
+  "size": "100M",
+  "version": 1,
+  "url": "https://github.com/astral-sh/uv",
+  "windows-x86_64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
+  "windows-amd64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
+  "linux-x86_64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+  "linux-amd64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+  "linux-aarch64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/aarch64-unknown-linux-gnu.zip",
+  "darwin-x86_64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-apple-darwin.zip",
+  "darwin-amd64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/x86_64-apple-darwin.zip",
+  "darwin-aarch64": "https://github.com/ossia/ossia-uv/releases/download/v1.0.0/aarch64-apple-darwin.zip"
+}
