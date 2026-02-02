@@ -1,7 +1,7 @@
 #!/bin/bash
 
 rm *.zip
-export UV_VERSION=0.6.17
+export UV_VERSION=0.9.28
 export UV_URL=https://github.com/astral-sh/uv/releases/download/$UV_VERSION
 for UV_ARCH in uv-x86_64-apple-darwin.tar.gz uv-x86_64-pc-windows-msvc.zip uv-x86_64-unknown-linux-gnu.tar.gz uv-aarch64-pc-windows-msvc.zip uv-aarch64-unknown-linux-gnu.tar.gz uv-aarch64-apple-darwin.tar.gz; do
 
